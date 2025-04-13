@@ -5,7 +5,7 @@ Step by step instruction to implement and use the code
 
 1.	Load the code “VIT_plus_GUI” into your preferred development platform. 
 2.	Save the Archive folder somewhere on your computer or google collab
-3.	Change the image directory in the Execution cell to where you saved the Archive folder. This is marked with the note “Change Archive Location”
+3.	(IF TRAINING MODEL) Change the image directory to where you saved the Archive folder. This is marked with the note “Change Archive Location”
 4.  Set the model save path to where you want to save or load wildefire_model.pth
 5.  On the bottom you can notice that there is a lot of code commeneted out. If you wanted to retrain the code you could remove the comment and then run the code again to train the dataset.
 6. Afterwards you can start running the code
