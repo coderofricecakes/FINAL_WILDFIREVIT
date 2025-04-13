@@ -1,4 +1,4 @@
-Before testing the code make sure that you download the training model, the VIT_plus_GUI, and the datasets
+Before testing the code make sure that you download the training model, the VIT_plus_GUI, Archive if you want to train the model again, and selected dataset for testing the model
 
 Test Script:
 Step by step instruction to implement and use the code
