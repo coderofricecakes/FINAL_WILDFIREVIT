@@ -1,3 +1,5 @@
+Before testing the code make sure that you download the training model, the VIT_plus_GUI, and the datasets
+
 Test Script:
 Step by step instruction to implement and use the code
 
